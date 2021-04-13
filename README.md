@@ -5,6 +5,8 @@ To run the server make sure that docker and docker-compose are installed on the 
 
 Once they are installed, make sure the ```setup.sh``` file has settings for execution: ```chmod +x setup.sh```
 
+You can do the same with the other script files for later use: ```chmod +x run.sh logs.sh stop.sh```
+
 Run the setup file: ```./setup.sh```
 
 ```Ctrl+C``` to exit the logs from the ```setup.sh``` script
